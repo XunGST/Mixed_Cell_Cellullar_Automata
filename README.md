@@ -6,7 +6,7 @@
 Liang X., Guan Q.*, Clarke KC, Chen G., Guo S., & Yao Y., 2021. Mixed-cell Cellular Automata: A new approach for simulating the spatio-temporal dynamics of mixed land use structures. Landscape and Urban Planning, 205:103960. DOI: https://doi.org/10.1016/j.landurbplan.2020.103960.
 
 # More Information
-https://xun2018.github.io/
+https://xungst.github.io/
  
 # Interfaces
 ![add image](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata/raw/master/pic1.png)
